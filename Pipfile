@@ -8,6 +8,7 @@ pandas = "*"
 chardet = "*"
 types-chardet = "*"
 jupyter = "*"
+tqdm = "*"
 
 [dev-packages]
 
