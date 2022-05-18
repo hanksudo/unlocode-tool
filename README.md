@@ -1,9 +1,19 @@
 # unlocode-tool
 
-## Package manager
+## Getting started
 
-- [Poetry - Python dependency management and packaging made easy](https://python-poetry.org/)
+### Installation
+
+- [Pipenv: Python Dev Workflow for Humans — pipenv 2022.5.3.dev0 documentation](https://pipenv.pypa.io/en/latest/)
 
 ```bash
-poetry install
+pipenv install
+jupyter nbextension install --py widgetsnbextension --user
+jupyter nbextension enable widgetsnbextension --user --py
+```
+
+### Start jupyter
+
+```bash
+jupyter notebook
 ```
