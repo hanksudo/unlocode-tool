@@ -17,3 +17,8 @@ jupyter nbextension enable widgetsnbextension --user --py
 ```bash
 jupyter notebook
 ```
+
+### Links
+
+- [locode.info](https://locode.info)
+- [UN/LOCODE Column Description](https://service.unece.org/trade/locode/Service/LocodeColumn.htm#Function)
