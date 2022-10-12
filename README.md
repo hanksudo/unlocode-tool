@@ -20,5 +20,6 @@ jupyter notebook
 
 ### Links
 
-- [locode.info](https://locode.info)
+- [UN/LOCODE | UNECE](https://unece.org/trade/uncefact/unlocode)
 - [UN/LOCODE Column Description](https://service.unece.org/trade/locode/Service/LocodeColumn.htm#Function)
+- [locode.info](https://locode.info)
